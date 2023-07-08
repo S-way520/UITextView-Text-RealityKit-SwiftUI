@@ -1,7 +1,7 @@
 # UITextView-Text-RealityKit-SwiftUI
 UITextView Text RealityKit SwiftUI
 # The first part
-![IMG_0267](https://github.com/S-way520/UITextView-Text-RealityKit-SwiftUI/assets/95877651/417cff4b-90e8-4f66-8cf4-5f1358c1523c)
+![IMG_0269](https://github.com/S-way520/UITextView-Text-RealityKit-SwiftUI/assets/95877651/5347cc10-0988-4369-bd82-4ff8a3a202c6)
 # The second part
 Code file 1
 ```swift
